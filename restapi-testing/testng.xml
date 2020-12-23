@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test name="Login Test">
+        <classes >
+
+            <!--<class name="com.kychub.dashboard.amlsearch.AmlSearchTestCases"></class>-->
+            <class name="com.obsessory.api.search.searchAPI1"></class>
+            <class name="com.obsessory.api.search.searchAPI2"></class>
+            <class name="com.obsessory.api.search.searchAPI3"></class>
+            <class name="com.obsessory.api.womens.womensAPI1"></class>
+            <class name="com.obsessory.api.womens.womensAPI2"></class>
+            <class name="com.obsessory.api.womens.womensAPI3"></class>
+        </classes>
+    </test>
+</suite>
+
