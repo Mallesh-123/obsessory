@@ -2,42 +2,42 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="22473" started-at="2020-12-24T06:28:39 GMT" finished-at="2020-12-24T06:29:01 GMT">
+  <suite name="All Test Suite" duration-ms="24945" started-at="2020-12-24T06:49:29 GMT" finished-at="2020-12-24T06:49:54 GMT">
     <groups>
     </groups>
-    <test name="Login Test" duration-ms="22473" started-at="2020-12-24T06:28:39 GMT" finished-at="2020-12-24T06:29:01 GMT">
+    <test name="Login Test" duration-ms="24945" started-at="2020-12-24T06:49:29 GMT" finished-at="2020-12-24T06:49:54 GMT">
       <class name="com.obsessory.api.womens.womensAPI1">
-        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.womens.womensAPI1@210366b4]" name="search" duration-ms="3716" started-at="2020-12-24T06:28:52 GMT" finished-at="2020-12-24T06:28:56 GMT">
+        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.womens.womensAPI1@210366b4]" name="search" duration-ms="4209" started-at="2020-12-24T06:49:44 GMT" finished-at="2020-12-24T06:49:49 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
       </class> <!-- com.obsessory.api.womens.womensAPI1 -->
       <class name="com.obsessory.api.search.searchAPI1">
-        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.search.searchAPI1@185d8b6]" name="search" duration-ms="7331" started-at="2020-12-24T06:28:39 GMT" finished-at="2020-12-24T06:28:46 GMT">
+        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.search.searchAPI1@185d8b6]" name="search" duration-ms="9557" started-at="2020-12-24T06:49:29 GMT" finished-at="2020-12-24T06:49:39 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
       </class> <!-- com.obsessory.api.search.searchAPI1 -->
       <class name="com.obsessory.api.search.searchAPI2">
-        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.search.searchAPI2@67784306]" name="search" duration-ms="2963" started-at="2020-12-24T06:28:46 GMT" finished-at="2020-12-24T06:28:49 GMT">
+        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.search.searchAPI2@67784306]" name="search" duration-ms="3417" started-at="2020-12-24T06:49:39 GMT" finished-at="2020-12-24T06:49:42 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
       </class> <!-- com.obsessory.api.search.searchAPI2 -->
       <class name="com.obsessory.api.search.searchAPI3">
-        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.search.searchAPI3@335eadca]" name="search" duration-ms="2741" started-at="2020-12-24T06:28:49 GMT" finished-at="2020-12-24T06:28:52 GMT">
+        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.search.searchAPI3@335eadca]" name="search" duration-ms="2279" started-at="2020-12-24T06:49:42 GMT" finished-at="2020-12-24T06:49:44 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
       </class> <!-- com.obsessory.api.search.searchAPI3 -->
       <class name="com.obsessory.api.womens.womensAPI3">
-        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.womens.womensAPI3@2b2948e2]" name="search" duration-ms="3264" started-at="2020-12-24T06:28:58 GMT" finished-at="2020-12-24T06:29:01 GMT">
+        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.womens.womensAPI3@2b2948e2]" name="search" duration-ms="3014" started-at="2020-12-24T06:49:51 GMT" finished-at="2020-12-24T06:49:54 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
       </class> <!-- com.obsessory.api.womens.womensAPI3 -->
       <class name="com.obsessory.api.womens.womensAPI2">
-        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.womens.womensAPI2@eec5a4a]" name="search" duration-ms="2281" started-at="2020-12-24T06:28:56 GMT" finished-at="2020-12-24T06:28:58 GMT">
+        <test-method status="PASS" signature="search()[pri:0, instance:com.obsessory.api.womens.womensAPI2@eec5a4a]" name="search" duration-ms="2362" started-at="2020-12-24T06:49:49 GMT" finished-at="2020-12-24T06:49:51 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
